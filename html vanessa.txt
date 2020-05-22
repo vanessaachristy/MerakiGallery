@@ -1,0 +1,41 @@
+<html>
+<head> </head>
+<title> The Gallery </title> <link rel="icon" href="floral.png"></link>
+<body background="face.jpg">
+<audio controls>
+<source src="music.mp3" type="audio/mpeg">
+</audio>
+<table border=0 width=100% height=100%>
+<tr>
+<td colspan=6 rowspan=1><center><img src="eyes.png"></img></center></td>
+</tr>
+<tr>
+<td colspan=6 rowspan=1 bgcolor=#E7CCC7><font face="Times New Roman" color=#5F170A size=5><b><i><center>ARTWORK VOLUME 01/19</center></i></b></font></td>
+</tr>
+<tr>
+<td colspan=3 rowspan=10  bgcolor=#F0EEC9>
+<br><center><img src="artwork.jpg" width=200 height=200></center></img></td>
+<td colspan=3 rowspan=10  bgcolor=#D6D3A6>
+<br><center><img src="quotes.png" width=180 height=320></img></center></td>
+</tr>
+<tr>
+<tr>
+<tr><tr>
+<tr>
+<tr><tr>
+<tr>
+<tr><tr>
+<td colspan=3 rowspan=10 bgcolor=#D6D3A6>
+<br><center><img src="quotes.png" width=180 height=320></img></center></td>
+<td colspan=3 rowspan=10 bgcolor=#F0EEC9>
+<br><center><img src="artwork.jpg" width=200 height=200></center></img></td>
+</tr>
+</tr>
+</tr></tr>
+</tr>
+</tr></tr>
+</tr>
+</tr></tr>
+
+</body>
+</html>
